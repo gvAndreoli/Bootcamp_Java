@@ -9,4 +9,7 @@ public class PalavrasReservadas {
     // retorno: return
     // relacionados a classe: class, extend, abstract, implements, static, new, super, this
     // final
+    public static void main(String[] args) {
+        System.out.println("Isso que ta ali em cima");
+    }
 }
