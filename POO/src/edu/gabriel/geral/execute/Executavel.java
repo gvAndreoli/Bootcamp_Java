@@ -1,11 +1,8 @@
 package edu.gabriel.geral.execute;
 
-import edu.gabriel.geral.model.Adulto;
 import edu.gabriel.geral.model.EstadoBrasileiro;
-import edu.gabriel.geral.model.Pessoa;
-import edu.gabriel.geral.model.Bebe;
 
-public class Main {
+public class Executavel {
     public static void main(String[] args) {
 //        Pessoa p = new Pessoa("João", 15);
 //        p.setAltura(1.75);
