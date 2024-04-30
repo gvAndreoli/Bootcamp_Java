@@ -13,7 +13,7 @@ public class AgendaEventos {
     }
 
     public void adicionarEvento(LocalDate data, String nome, String atracao){
-        Evento evento = new Evento(nome atracao);
+        Evento evento = new Evento(nome, atracao);
         agenda.put(data, evento);
     }
 
